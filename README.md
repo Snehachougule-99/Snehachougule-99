@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I am a Certified Data Analyst, seeking an opportunity to show case my skills.
 
 <!-- I am Sneha Chougule
 **Snehachougule-99/Snehachougule-99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
