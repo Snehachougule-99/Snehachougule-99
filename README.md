@@ -1,13 +1,11 @@
 ### Hi there 👋 I am a Certified Data Analyst, seeking an opportunity to show case my skills.
 
-<!-- I am Sneha Chougule
-**Snehachougule-99/Snehachougule-99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I am a certified Data Analyst seeking an opportunity to contribute my skills in data analysis and visualization. With a strong academic background and certification in Data Analysis, my goal is to make meaningful contributions as a fresher Data Analyst, applying my knowledge to drive data-informed decision-making.
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently looking for a Data Analyst role
-- 🌱 I’m Skilled at MS Escel, Power BI, MySQL, Tableau, Python, Data Visualization, Power Point, Power Query, Statistical Analysis, Data Cleaning.
--     I have completed MSc Mathematics
+- 🌱 I’m Skilled at Excel, Power BI, MySQL, Tableau, Python, Data Visualization, Power Point, Power Query, Statistical Analysis, Data Cleaning.
+-    
 - 📫 How to reach me: 42131snehacb@gmail.com, +91-8496811853
 - 
 -->
